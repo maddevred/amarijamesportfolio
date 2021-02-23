@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+# Amari James Portfolio Website
 
 This is an application to host my official, updated portfolio website. Built using HTML/CSS, React bootstrap, Javascript, and React-Scroll (open source code here:
 <br>
@@ -22,7 +22,7 @@ and hosted publicly on Heroku.
 
 <strong>OR</strong>
 
-
+<em> open here<em> https://amarijames-portfolio.herokuapp.com/
 
 <br>
 

@@ -2,33 +2,38 @@ import React, { Component } from "react";
 import "./App.css";
 import Navbar from "./Components/Navbar";
 import Section from "./Components/Section";
-import dummyText from "./DummyText";
+import aboutMe from "./AboutMe";
+import skills from "./Skills";
+import projects from "./Projects";
+import contactMe from "./ContactMe";
+
 class App extends Component {
   render() {
     return (
       <div className="App">
+        <header>hello world</header>
         <Navbar />
         <Section
           title="About Me"
-          subtitle={dummyText}
+          subtitle={aboutMe}
           dark={true}
           id="section1"
         />
         <Section
           title="Skills"
-          subtitle={dummyText}
+          subtitle={skills}
           dark={false}
           id="section2"
         />
         <Section
           title="Projects"
-          subtitle={dummyText}
+          subtitle={projects}
           dark={true}
           id="section3"
         />
         <Section
           title="Contact Me"
-          subtitle={dummyText}
+          subtitle={contactMe}
           dark={false}
           id="section4"
         />
