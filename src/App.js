@@ -11,7 +11,6 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <header>hello world</header>
         <Navbar />
         <Section
           title="About Me"

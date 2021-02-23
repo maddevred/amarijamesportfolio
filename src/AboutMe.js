@@ -1,7 +1,34 @@
-const aboutMe = `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id nibh tortor id aliquet. Sed lectus vestibulum mattis ullamcorper velit sed. Nec nam aliquam sem et tortor. Elit eget gravida cum sociis natoque. Ipsum a arcu cursus vitae. Massa sapien faucibus et molestie ac feugiat sed. Turpis egestas maecenas pharetra convallis posuere morbi leo. Duis at consectetur lorem donec massa sapien faucibus et molestie. Purus sit amet luctus venenatis lectus. Pellentesque nec nam aliquam sem et tortor consequat id porta. Sapien et ligula ullamcorper malesuada. Fringilla ut morbi tincidunt augue interdum velit euismod. Vitae turpis massa sed elementum tempus egestas sed. Netus et malesuada fames ac turpis egestas integer eget aliquet. Blandit cursus risus at ultrices mi tempus imperdiet nulla malesuada. Aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis.
-Nisi est sit amet facilisis. Vitae congue eu consequat ac felis. Facilisis mauris sit amet massa vitae tortor condimentum lacinia. Nisl condimentum id venenatis a condimentum. Rutrum tellus pellentesque eu tincidunt tortor. Semper auctor neque vitae tempus quam. Pellentesque adipiscing commodo elit at imperdiet dui accumsan sit. Mi ipsum faucibus vitae aliquet nec ullamcorper sit. Enim lobortis scelerisque fermentum dui faucibus. Volutpat ac tincidunt vitae semper quis lectus nulla at.
-Pellentesque id nibh tortor id aliquet lectus proin. Blandit cursus risus at ultrices mi. Iaculis eu non diam phasellus vestibulum lorem. Et odio pellentesque diam volutpat commodo. Sodales ut etiam sit amet nisl purus in. Adipiscing elit ut aliquam purus sit. Bibendum enim facilisis gravida neque convallis a cras. Duis at consectetur lorem donec massa sapien faucibus et molestie. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin. Non odio euismod lacinia at quis risus sed vulputate odio. Vel turpis nunc eget lorem dolor sed viverra ipsum. A lacus vestibulum sed arcu.
-Odio aenean sed adipiscing diam. Volutpat ac tincidunt vitae semper quis lectus. Tristique magna sit amet purus. Euismod in pellentesque massa placerat duis. Tellus molestie nunc non blandit massa enim nec dui nunc. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tempus quam pellentesque nec nam aliquam sem et tortor consequat. Ac felis donec et odio pellentesque diam volutpat commodo sed. Orci sagittis eu volutpat odio. Purus faucibus ornare suspendisse sed nisi lacus. Nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Habitant morbi tristique senectus et netus et. Porta non pulvinar neque laoreet suspendisse. Nunc scelerisque viverra mauris in aliquam sem fringilla ut morbi. Tellus integer feugiat scelerisque varius. Pulvinar pellentesque habitant morbi tristique senectus et netus et malesuada. Pharetra et ultrices neque ornare aenean euismod. Proin sagittis nisl rhoncus mattis rhoncus.
-Nisi quis eleifend quam adipiscing vitae. Eget mauris pharetra et ultrices neque ornare aenean euismod elementum. Non arcu risus quis varius quam quisque id diam. Pharetra magna ac placerat vestibulum. Lobortis feugiat vivamus at augue eget arcu dictum varius duis. Sed id semper risus in hendrerit gravida. Ultrices eros in cursus turpis massa. Non tellus orci ac auctor augue mauris augue. Arcu vitae elementum curabitur vitae nunc. Convallis a cras semper auctor neque vitae tempus quam. Varius quam quisque id diam vel.`;
+const aboutMe =
+<html>
+<body>
+
+<img id="img1" src="https://gm1.ggpht.com/s5ZtmUbtbepOC-6sG-AJ0jVaxxOnGQY35VAfwnBJ-hpulhzmCwYoxSfsxE0gUUS5oB6_WwQPqnDOq9TwQCpgan8F8rfH3WHOpirE6t1BJMIR2Gm4VSN-ZXbzXrFcY7N7_tucAIJbJQ3E1b5jujXtnEF-Ddd-xLvGbuKyrOHqiwhcJHNn91bEFA5psJH6T97hyXAq7gMAgneSA8_kHFDeLLPaKfbNQRd7dmZzp3EYmL7-j7IwM5tEbXcfM-HPM5w_zdJcXn4rlY9FLVBTqv_iT1HGEOWjtpe9WQsTkQbhcERqawa4M_sZT-sqo7FKFQKUHWMBlknbIsO1HdyvwG4ijoNSKD0u_Gm5FR0eKK9fxxwBuynFUISht3AEFtHnwME4wW2AXrTYgtiRlG1pGfPeIA4CydiRBJ5dhG2Q6RSChTpVcFpPx9qjuxFtoQoxhy8gTlNFkImhZmKKn-RU1G9T88Sukr29Ec2aRNke8cs5eeMHmsiRv5EnugjZK_Xshc7nuWgDt_5SMnXHP6_Z_b6deCh66cWj-f4jlTgiZYE_Qj_3EJwP4XFziGacK5a6pdueHCtvSxBFbEwaW0YaHA316Go1ftx2wI2PcgRxk5aezEOFxg9EFsJSGgwRmlD9_tINCBvXpT47duECWSwMPK2ni2Qg2_RySMd1UoewyIAhPwbLtrZjF_qZ7vPQzoURkNCD0pByFdiAy2md4chfSOfyp34BHc3k4IxH4Sx3ay84k8DDxTr5tMtMU0s0-jEvy7OCdw=s0-l75-ft-l75-ft">
+
+</img>
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+<p>Detail-oriented full-stack developer with the education, skills, and Google know-how to solve any problem. 
+Commited to lifelong learning and constantly honing my skills to become a better, more polished developer. 
+Graduated from General Assembly's Software Engineering Immersive Program.</p>
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+
+
+<script>
+
+document.getElementById("demo").innerHTML = 5 + 6;
+
+</script>
+
+</body>
+</html>
 
 export default aboutMe;
