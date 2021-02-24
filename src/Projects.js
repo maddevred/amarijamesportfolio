@@ -29,7 +29,7 @@ const projects =
     <br></br>
   
     <h3>Irezumi</h3>
-    <img id="irezumi" src="https://lh3.googleusercontent.com/proxy/dxmfRZfOXSwosYJQJwRQ7IZtVDJR3UH13oqBzK3Y-7EO84ZQFTTsQ8IKH2ZLt39AzCsK99Q_PGN09vSkIc5RpoF8I2HZIn9BigdHLajf4LdIUFMmXLvT6u8A96TyZcKEdGouXAhRygliAQAB6e94R2dtZsSZmdE"></img>
+    <img class="irezumi" src="https://lh3.googleusercontent.com/proxy/dxmfRZfOXSwosYJQJwRQ7IZtVDJR3UH13oqBzK3Y-7EO84ZQFTTsQ8IKH2ZLt39AzCsK99Q_PGN09vSkIc5RpoF8I2HZIn9BigdHLajf4LdIUFMmXLvT6u8A96TyZcKEdGouXAhRygliAQAB6e94R2dtZsSZmdE"></img>
     <br></br>
     <a href="http://irezumi-tattoo.herokuapp.com/" target='_blank'><button id="irebutt">view PROJECT here</button></a>
     <p>Team Project. Full-stack application to find tattoo inspiration as well as local tattoo shops, both of which can be saved and added to a user profile for future use. 
