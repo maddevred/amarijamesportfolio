@@ -16,7 +16,8 @@ const aboutMe =
 
 <p>Detail-oriented full-stack developer with the education, skills, and Google know-how to solve any problem. 
 Commited to lifelong learning and constantly honing my skills to become a better, more polished developer. 
-Graduated from General Assembly's Software Engineering Immersive Program.</p>
+Graduated from General Assembly's Software Engineering Immersive Program.
+Based in Georgia. Willing to relocate.</p>
 
 <br></br>
 <br></br>

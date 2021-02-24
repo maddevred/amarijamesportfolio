@@ -15,25 +15,25 @@ class App extends Component {
         <Section
           title="About Me"
           subtitle={aboutMe}
-          dark={true}
+          dark={false}
           id="section1"
         />
         <Section
           title="Skills"
           subtitle={skills}
-          dark={false}
+          dark={true}
           id="section2"
         />
         <Section
           title="Projects"
           subtitle={projects}
-          dark={true}
+          dark={false}
           id="section3"
         />
         <Section
           title="Contact Me"
           subtitle={contactMe}
-          dark={false}
+          dark={true}
           id="section4"
         />
       </div>

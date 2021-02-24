@@ -74,7 +74,7 @@ img {
 }
 
 a {
-  color: white;
+  color: black;
 }
 
 h1 {
@@ -199,4 +199,42 @@ p {
   height: 100px;
   width: 100px;
   padding: 1em;
+}
+
+.microsoft{
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.github{
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.linkedin{
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.email{
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.phone{
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+.ghstyle {
+  color: white;
+}
+
+.listyle {
+  color: white;
 }

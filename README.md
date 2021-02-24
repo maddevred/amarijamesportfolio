@@ -39,7 +39,7 @@ and hosted publicly on Heroku.
 
 ### DEV NOTE:
 <br>
-This is my current final portfolio project. I will be making constant updates and changes as I design new websites and applications, as well as regularly debugging any issues that may arise.  <br>
+This is my current final portfolio project. I will be making constant updates and changes as I design new websites and applications, as well as regularly debugging any issues that may arise. One of the challenges I am currently facing is getting my buttons to work :( If there are any awesome devs out there that would like the help me with this issue, please feel free to reach out to me! I would greatly appreciate it! <br>
 <br>
 Please check back for updates, fixes, and cool new features! <br>
 <br>
