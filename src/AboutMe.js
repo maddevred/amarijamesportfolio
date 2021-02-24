@@ -5,7 +5,7 @@ const aboutMe =
 <br></br>
 <br></br>
 
-<img id="img1" src="https://scontent.ftpf1-1.fna.fbcdn.net/v/t1.0-9/122962758_977055522816400_7039963796302645343_n.jpg?_nc_cat=103&ccb=3&_nc_sid=8bfeb9&_nc_ohc=mqZ9jBPBhM4AX_0iy8A&_nc_ht=scontent.ftpf1-1.fna&oh=ed6886a72e9a67dfcc65ad72883fe46a&oe=6059D4E6">
+<img id="img1" src="https://scontent.ftpf1-1.fna.fbcdn.net/v/t1.0-9/154278032_1056037554918196_8155261179726222852_n.jpg?_nc_cat=107&ccb=3&_nc_sid=8bfeb9&_nc_ohc=O4eFeeJW2tEAX_0Rssq&_nc_ht=scontent.ftpf1-1.fna&oh=33b9348e832f4d612fb80b07abeff5af&oe=605A80A8">
 
 </img>
 
