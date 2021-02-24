@@ -7,7 +7,7 @@ const projects =
     <h1>HZ HQ</h1>
     <img class="hzhq" src="https://healthcare-india.org/wp-content/uploads/2019/06/19cover-1-696x465.jpg"></img>
     <br></br>
-    <button onclick="window.open('https://hzfreq.herokuapp.com/', '_blank');">view WEBSITE here</button>
+    <a href="https://hzfreq.herokuapp.com" target='_blank'><button id="hzbutt">view WEBSITE here</button></a>
     <p>Website application to find all hertz frequencies and their properties as well as links to listen to them on YouTube. 
         Built using Express, Node.js, JS, and HTML. 
         One of the challenges I faced with this particular website was figuring out some style issues in CSS,
@@ -19,7 +19,7 @@ const projects =
     <h2>OUID</h2>
     <img class="ouid" src="https://media.self.com/photos/5e96135a2c928600095ebd3c/master/pass/weed_marijuana.jpeg"></img>
     <br></br>
-    <button onclick="window.open('https://github.com/marjames98/projectfourOUID', '_blank');">view REPO here</button>
+    <a href="https://github.com/marjames98/projectfourOUID" target='_blank'><button id="ouidbutt">view REPO here</button></a>
     <p>Website application on Tetrahydrocannabinol strains and information. 
         Built using Express, Node.js, mongoDB, JS, and HTML. 
         One of the most difficult challenges I faced was implementing my API.
@@ -29,9 +29,9 @@ const projects =
     <br></br>
   
     <h3>Irezumi</h3>
-    <img class="irezumi" src="https://lh3.googleusercontent.com/proxy/dxmfRZfOXSwosYJQJwRQ7IZtVDJR3UH13oqBzK3Y-7EO84ZQFTTsQ8IKH2ZLt39AzCsK99Q_PGN09vSkIc5RpoF8I2HZIn9BigdHLajf4LdIUFMmXLvT6u8A96TyZcKEdGouXAhRygliAQAB6e94R2dtZsSZmdE"></img>
+    <img id="irezumi" src="https://lh3.googleusercontent.com/proxy/dxmfRZfOXSwosYJQJwRQ7IZtVDJR3UH13oqBzK3Y-7EO84ZQFTTsQ8IKH2ZLt39AzCsK99Q_PGN09vSkIc5RpoF8I2HZIn9BigdHLajf4LdIUFMmXLvT6u8A96TyZcKEdGouXAhRygliAQAB6e94R2dtZsSZmdE"></img>
     <br></br>
-    <button onclick="window.open('http://irezumi-tattoo.herokuapp.com/', '_blank');">view PROJECT here</button>
+    <a href="http://irezumi-tattoo.herokuapp.com/" target='_blank'><button id="irebutt">view PROJECT here</button></a>
     <p>Team Project. Full-stack application to find tattoo inspiration as well as local tattoo shops, both of which can be saved and added to a user profile for future use. 
         Additionally, users can see tattoos they are interested in on a hypothetical body part of their choosing. 
         Built using mongoDB, React, Axios, Cloudinary and Bootstrap Styling, as well as API routing.

@@ -14,10 +14,10 @@ const aboutMe =
 <br></br>
 <br></br>
 
-<p>Detail-oriented full-stack developer with the education, skills, and Google know-how to solve any problem. 
+<p>Detail-oriented full-stack developer with the education, hard and soft skills, as well as the Google know-how to solve any problem. 
 Commited to lifelong learning and constantly honing my skills to become a better, more polished developer. 
 Graduated from General Assembly's Software Engineering Immersive Program.
-Based in Georgia. Willing to relocate.</p>
+Based in Georgia. Willing to relocate or work remotely.</p>
 
 <br></br>
 <br></br>
