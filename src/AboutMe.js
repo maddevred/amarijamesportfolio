@@ -23,7 +23,7 @@ Based in Georgia. Willing to relocate or work remotely.</p>
 <br></br>
 <br></br>
 
-<a id="resume" href="https://docs.google.com/document/d/1NNlxgewo6mfE29mfXoArziVPDmiZNKF9vznYNRwRBx4/edit?usp=sharing" target='_blank'>view my resume here</a>
+<a id="resume" href="https://docs.google.com/document/d/19sPtoxovyhbHMoWiLW5XA-vQGSybB09cV_JkoFvF-yQ/edit?usp=sharing" target='_blank'>view my resume here</a>
 
 <script>
 
