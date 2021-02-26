@@ -16,7 +16,7 @@ const aboutMe =
 
 <p>Detail-oriented full-stack engineer with the education, hard and soft skills, as well as the Google know-how to solve any problem. 
 Agile developer creating applications and websites with adaptive design, smooth deployment, exceptional code documentation, and a quick turn-around process. 
-Commited to lifelong learning and constantly honing my skills to become a better, more polished developer. 
+Commited to lifelong learning and constantly honing my skills to become a better, more polished software architect. 
 Graduated from General Assembly's Software Engineering Immersive Program.
 Based in Georgia. Willing to relocate or work remotely.</p>
 
