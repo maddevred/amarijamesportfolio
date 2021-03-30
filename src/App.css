@@ -68,8 +68,6 @@ button {
 }
 
 img {
-  max-height: 300px;
-  max-width: 250x;
   border-radius: 100px;
 }
 
@@ -237,4 +235,11 @@ p {
 
 .listyle {
   color: white;
+}
+
+.img1 {
+  height: 300px;
+  width: 300px;
+  object-fit: fill;
+  border-radius: 100%;
 }

@@ -5,9 +5,8 @@ const aboutMe =
 <br></br>
 <br></br>
 
-<img id="img1" src="https://scontent.ftpf1-1.fna.fbcdn.net/v/t1.0-9/154278032_1056037554918196_8155261179726222852_n.jpg?_nc_cat=107&ccb=3&_nc_sid=8bfeb9&_nc_ohc=O4eFeeJW2tEAX_0Rssq&_nc_ht=scontent.ftpf1-1.fna&oh=33b9348e832f4d612fb80b07abeff5af&oe=605A80A8">
+<img class="img1" src="https://lh3.googleusercontent.com/LgkCBCqK9M5XO7R5a0AFD77TWt171OoUb3xYf4fgd5bqzNnmbCtAvj7Ph7M5eDv_dIB4M03okpYm6VeD-jm86B6LcZjET0_Z9L4pdb94uQTw3EhHaSi9uK4V_ZibLfLkAWGSqKMmAA=w514-h315-p-k"></img>
 
-</img>
 
 <br></br>
 <br></br>
