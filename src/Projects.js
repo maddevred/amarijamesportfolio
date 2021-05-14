@@ -15,18 +15,6 @@ https://github.com/do-community/React-With-Smooth-Scrolling/blob/master/public/m
 and not currently deployed. </p>
     <br></br>
 
-    <h2>OUID</h2>
-    <img class="ouid" src="https://media.self.com/photos/5e96135a2c928600095ebd3c/master/pass/weed_marijuana.jpeg"></img>
-    <br></br>
-    <a href="https://github.com/marjames98/projectfourOUID" target='_blank'><button id="ouidbutt">view REPO</button></a>
-    <p>Website application on Tetrahydrocannabinol strains and information. 
-        Built using Express, Node.js, mongoDB, JS, and HTML. 
-        One of the most difficult challenges I faced was implementing my API.
-        Due to probable errors in my API routing, this issue still has not been resolved.
-        Looking for an awesome dev to collab with on the finishing of this project!
-        Deployed and hosted on Heroku.</p>
-    <br></br>
-  
     <h3>IREZUMI</h3>
     <img class="irezumi" src="https://resize.hswstatic.com/w_796/gif/tatto-hero-622x415.jpg"></img>
     <br></br>
@@ -39,6 +27,19 @@ and not currently deployed. </p>
         we solved this issue by utilizing Slack to our fullest advantage and doing group phone calls instead. 
         This greatly improved our communication and we publicly deployed and presented our application with minimul bugs.    
         Deployed and hosted on Heroku. </p>
+
+    <h2>OUID</h2>
+    <img class="ouid" src="https://media.self.com/photos/5e96135a2c928600095ebd3c/master/pass/weed_marijuana.jpeg"></img>
+    <br></br>
+    <a href="https://github.com/marjames98/projectfourOUID" target='_blank'><button id="ouidbutt">view REPO</button></a>
+    <p>Website application on Tetrahydrocannabinol strains and information. 
+        Built using Express, Node.js, mongoDB, JS, and HTML. 
+        One of the most difficult challenges I faced was implementing my API.
+        Due to probable errors in my API routing, this issue still has not been resolved.
+        Looking for an awesome dev to collab with on the finishing of this project!
+        Deployed and hosted on Heroku.</p>
+    <br></br>
+  
 </div>
 
 <script>
