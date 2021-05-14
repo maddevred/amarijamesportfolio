@@ -4,22 +4,21 @@ const projects =
 <body>
 
 <div>
-    <h1>HZ HQ</h1>
-    <img class="hzhq" src="https://healthcare-india.org/wp-content/uploads/2019/06/19cover-1-696x465.jpg"></img>
+    <h1>OUTCIDE CATZ</h1>
+    <img class="hzhq" src="https://cdn.drawception.com/drawings/sG7w0BbkFP.png"></img>
     <br></br>
-    <a href="https://hzfreq.herokuapp.com" target='_blank'><button id="hzbutt">view WEBSITE here</button></a>
-    <p>Website application to find all hertz frequencies and their properties as well as links to listen to them on YouTube. 
-        Built using Express, Node.js, JS, and HTML. 
-        One of the challenges I faced with this particular website was figuring out some style issues in CSS,
-        and how to add styling to different elements with the same id. I was still a novice at CSS at the time, 
-        but I'm a lot more experienced now and learning new things every day.
-        Deployed and hosted on Heroku. </p>
+    <a href="https://github.com/do-community/React-With-Smooth-Scrolling/blob/master/public/manifest.json" target='_blank'><button id="hzbutt">view OPEN SOURCE CODE</button></a>
+    <p>This is an application to host a client's official pest-control website. 
+        This website is intended to be a "headquarters" of sorts for business, assisting in the easing of day to day operations to include but not limited to invoicing, booking new clients, bill payments, etc. 
+        Built using HTML/CSS, React bootstrap, Javascript, and React-Scroll (open source c:
+https://github.com/do-community/React-With-Smooth-Scrolling/blob/master/public/manifest.json)
+and not currently deployed. </p>
     <br></br>
 
     <h2>OUID</h2>
     <img class="ouid" src="https://media.self.com/photos/5e96135a2c928600095ebd3c/master/pass/weed_marijuana.jpeg"></img>
     <br></br>
-    <a href="https://github.com/marjames98/projectfourOUID" target='_blank'><button id="ouidbutt">view REPO here</button></a>
+    <a href="https://github.com/marjames98/projectfourOUID" target='_blank'><button id="ouidbutt">view REPO</button></a>
     <p>Website application on Tetrahydrocannabinol strains and information. 
         Built using Express, Node.js, mongoDB, JS, and HTML. 
         One of the most difficult challenges I faced was implementing my API.
@@ -28,10 +27,10 @@ const projects =
         Deployed and hosted on Heroku.</p>
     <br></br>
   
-    <h3>Irezumi</h3>
+    <h3>IREZUMI</h3>
     <img class="irezumi" src="https://resize.hswstatic.com/w_796/gif/tatto-hero-622x415.jpg"></img>
     <br></br>
-    <a href="http://irezumi-tattoo.herokuapp.com/" target='_blank'><button id="irebutt">view PROJECT here</button></a>
+    <a href="http://irezumi-tattoo.herokuapp.com/" target='_blank'><button id="irebutt">view PROJECT</button></a>
     <p>Team Project. Full-stack application to find tattoo inspiration as well as local tattoo shops, both of which can be saved and added to a user profile for future use. 
         Additionally, users can see tattoos they are interested in on a hypothetical body part of their choosing. 
         Built using mongoDB, React, Axios, Cloudinary and Bootstrap Styling, as well as API routing.

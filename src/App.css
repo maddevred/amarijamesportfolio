@@ -243,3 +243,10 @@ p {
   object-fit: fill;
   border-radius: 100%;
 }
+
+.img2 {
+  height: 300px;
+  width: 300px;
+  object-fit: fill;
+  border-radius: 10%;
+}
