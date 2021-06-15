@@ -5,8 +5,9 @@ const contactMe =
 
 <header></header>
 
+<strong>*** WEBSITE CURRENTLY UNDER CONSTRUCTION!!! <br></br> PLEASE CHECK BACK FOR UPDATES, FIXES, AND NEW FEATURES :) ***</strong>
 
-
+{/* 
 <h1>To reach out, click one of the links below, 
     or contact me via email/phone:</h1>
 
@@ -27,7 +28,7 @@ const contactMe =
 <br></br>
 
 <img class="phone" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/phone-512.png"></img>
-<p>(404)-604-0791</p>
+<p>(404)-604-0791</p> */}
 
 <script>
 document.getElementById("demo").innerHTML = 5 + 6;

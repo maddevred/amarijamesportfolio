@@ -3,7 +3,9 @@ const skills =
 <html>
 <body>
 
-<img class="mongoose" src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg"></img>    
+<strong>*** WEBSITE CURRENTLY UNDER CONSTRUCTION!!! <br></br> PLEASE CHECK BACK FOR UPDATES, FIXES, AND NEW FEATURES :) ***</strong>
+
+{/* <img class="mongoose" src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg"></img>    
 
 <img class="linux" src="https://mewallpaper.com/thumbnail/abstract/6424-linux-tux-logo-hd-free-wallpaper-hq.jpg"></img>
 
@@ -43,7 +45,7 @@ const skills =
 
 <br></br>
 
-<img class="jade" src="https://jadeframework.dev/jade_logo-full-meta.png"></img>
+<img class="jade" src="https://jadeframework.dev/jade_logo-full-meta.png"></img> */}
 
 <script>
 document.getElementById("demo").innerHTML = 5 + 6;

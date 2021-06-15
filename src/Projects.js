@@ -4,7 +4,9 @@ const projects =
 <body>
 
 <div>
-    <h1>OUTCIDE CATZ</h1>
+
+<strong>*** WEBSITE CURRENTLY UNDER CONSTRUCTION!!! <br></br> PLEASE CHECK BACK FOR UPDATES, FIXES, AND NEW FEATURES :) ***</strong>
+    {/* <h1>OUTCIDE CATZ</h1>
     <img class="hzhq" src="https://cdn.drawception.com/drawings/sG7w0BbkFP.png"></img>
     <br></br>
     <a href="https://github.com/do-community/React-With-Smooth-Scrolling/blob/master/public/manifest.json" target='_blank'><button id="hzbutt">view OPEN SOURCE CODE</button></a>
@@ -38,7 +40,7 @@ and not currently deployed. </p>
         Due to probable errors in my API routing, this issue still has not been resolved.
         Looking for an awesome dev to collab with on the finishing of this project!
         Deployed and hosted on Heroku.</p>
-    <br></br>
+    <br></br> */}
   
 </div>
 
