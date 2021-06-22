@@ -44,6 +44,3 @@ This is my current final portfolio project. I will be making constant updates an
 Please check back for updates, fixes, and cool new features! <br>
 <br>
 :)))
-
-
-hey 
