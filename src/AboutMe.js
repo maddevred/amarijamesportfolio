@@ -5,7 +5,7 @@ const aboutMe =
 <br></br>
 <br></br>
 
-<img class="img1" src="https://scontent-atl3-2.xx.fbcdn.net/v/t1.6435-9/186297485_1104822086706409_5390037232218721306_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=zeJbZoCWOC0AX8AqIMQ&_nc_oc=AQnYYbwCkUMxhTdksfqF0Ipib-Lb9Jgsrb5bM9DXSzOxLx0s7Jdqe8KpAG8qM2hpgTUPB4bfj36AeQyIqahtchvb&_nc_ht=scontent-atl3-2.xx&oh=db994c233977552f13e1fc64e5ec03a9&oe=60D37FBC"></img>
+<img class="img1" src="https://lh3.googleusercontent.com/zbeu04jp3rzwf53U6eW_hem3zHvpLU9iPhS_HSmLPedKc9SGeEk3tKkdPMxb03n25VMH8mMnAu-df0hs51JqYj9RCdc53F-48geDGO6tf8F3lKXBp2YxERQTKI86fz85o-jdKHU7S8gn_hQu5gMlooSG_-AmRfRez6_xyF8iKIFkleEgVO99yBR7zJcDrFN9BemnLMZLiUGiUQmSCeQcOdi3nIULpfU7GFAVMBdKnSXdZP0aR6RRfRdmIdRy2FMDX_qtK_7rriLNeee_YHAC4yIok-LOByHYwNo21w8cBeReFqo0cHz8tyDBoLNIt4sa6GLtiw85PQDd85scPfq1jPpnMsLIMvxQQUmkmETuGZb0jHCfWTaSLw1LvUuMnD-rAE9UInkjwJLVtnk_uGymo-8dpFlEGj2JsjJHoBfGUU2ZyXkB-dvCDACOMR5GmQLR9ljG4lHc2jycZ9v21IjebIqz5uxQYSH3AL4xReExXksmWxWEcs4q03FJdLfK9C3S56Qn9CHVSJdhCVLXyvLViKnv3NaiwO4PFiyjMJLjhDAmR_Q5daoSjZet6seqIx4LsxP2xdPMp3iFR1YpC7LvWv1cYh1mxYao5UJQTpXLI_kX3_F3QfmSG_EquGL88bZlokuLI9OaQ4PgVUeWz6wUOm9gcakXmjIr7gW-0uYi6jX6L7dWu7YwFxVXlMlsKLeqF0z04F7Ptxyk3yg6xAXq-JE=w154-h207-no?authuser=0" alt="A current headshot."></img>
 
 
 <br></br>
