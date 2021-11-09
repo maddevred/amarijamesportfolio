@@ -5,13 +5,24 @@ const projects =
 
 <div>
 
+<h2>JAYFACTSMUSIC</h2>
+    <img class="jayfacts" src="https://www.sheffieldav.com/sites/default/files/Best-Audio-Engineering-Schools.jpg"></img>
+    <br></br>
+    <a href="https://jayfactsmusic.herokuapp.com/" target='_blank'><button id="jayfactsbutt">view APP</button></a>
+    <p>This is an application to host an official, user-friendly musical e-commerce website. This application is currently still in progress, and I am learning a new skill with every feature added. 
+        So far, I have had the most fun playing with the CSS animations for this apps title. Please check back for more updates, fixes, and cool features soon!
+        Built using HTML/CSS, React bootstrap, Javascript, and React-Scroll (open source code here:
+https://github.com/do-community/React-With-Smooth-Scrolling/blob/master/public/manifest.json)
+and hosted publicly on Heroku. </p>
+    <br></br>
+
     <h1>OUTCIDE CATZ</h1>
     <img class="hzhq" src="https://cdn.drawception.com/drawings/sG7w0BbkFP.png"></img>
     <br></br>
     <a href="https://github.com/do-community/React-With-Smooth-Scrolling/blob/master/public/manifest.json" target='_blank'><button id="hzbutt">view OPEN SOURCE CODE</button></a>
     <p>This is an application to host a client's official pest-control website. 
         This website is intended to be a "headquarters" of sorts for business, assisting in the easing of day to day operations to include but not limited to invoicing, booking new clients, bill payments, etc. 
-        Built using HTML/CSS, React bootstrap, Javascript, and React-Scroll (open source c:
+        Built using HTML/CSS, React bootstrap, Javascript, and React-Scroll (open source code here:
 https://github.com/do-community/React-With-Smooth-Scrolling/blob/master/public/manifest.json)
 and not currently deployed. </p>
     <br></br>
@@ -28,18 +39,6 @@ and not currently deployed. </p>
         we solved this issue by utilizing Slack to our fullest advantage and doing group phone calls instead. 
         This greatly improved our communication and we publicly deployed and presented our application with minimul bugs.    
         Deployed and hosted on Heroku. </p>
-
-    <h2>OUID</h2>
-    <img class="ouid" src="https://media.self.com/photos/5e96135a2c928600095ebd3c/master/pass/weed_marijuana.jpeg"></img>
-    <br></br>
-    <a href="https://github.com/marjames98/projectfourOUID" target='_blank'><button id="ouidbutt">view REPO</button></a>
-    <p>Website application on Tetrahydrocannabinol strains and information. 
-        Built using Express, Node.js, mongoDB, JS, and HTML. 
-        One of the most difficult challenges I faced was implementing my API.
-        Due to probable errors in my API routing, this issue still has not been resolved.
-        Looking for an awesome dev to collab with on the finishing of this project!
-        Deployed and hosted on Heroku.</p>
-    <br></br>
   
 </div>
 
