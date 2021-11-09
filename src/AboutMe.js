@@ -15,7 +15,7 @@ const aboutMe =
 
 <h1>Amari James</h1> 
 <p> Specializing in adaptive, polished, and prompt professional software development.</p>
-<p><em>Click <a target="_blank" href="https://photos.app.goo.gl/YecLDw5HGFJ23aLu6"><strong>here</strong></a> to view resume!</em></p>
+<p><em>Click <a target="_blank" href="https://www.canva.com/design/DAEu0THil84/share/preview?token=ZkUU3OCaE8X5rBUw5D3mGA&role=EDITOR&utm_content=DAEu0THil84&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"><strong>here</strong></a> to view resume!</em></p>
 
 <script>
 
