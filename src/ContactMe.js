@@ -25,7 +25,7 @@ const contactMe =
 <br></br>
 
 <img class="phone" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/phone-512.png"></img>
-<p>(404)-604-0791</p> 
+<p>(404)-734-6370</p> 
 
 <script>
 document.getElementById("demo").innerHTML = 5 + 6;
