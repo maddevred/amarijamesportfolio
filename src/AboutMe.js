@@ -10,9 +10,12 @@ const aboutMe =
         <h1 class="Blazing" contenteditable="true">Amari James</h1> 
 </div>  
 
+
+{/* want to have subtitle blazing too  */}
 {/* <div class="dark fire">
         <h4 class="Subtitles" contenteditable="true">Full-Stack Software Developer</h4>
 </div>   */}
+
 
 <strong><p>Full-Stack Software Developer</p></strong>
 <p> Specializing in adaptive, polished, and prompt professional software development.</p>
