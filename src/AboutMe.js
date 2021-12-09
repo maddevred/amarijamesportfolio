@@ -19,7 +19,7 @@ const aboutMe =
 
 <strong><p>Full-Stack Software Developer</p></strong>
 <p> Specializing in adaptive, polished, and prompt professional software development.</p>
-<p><em>Click <a target="_blank" href="https://www.canva.com/design/DAEu0THil84/view"><strong>here</strong></a> to view resume!</em></p>
+<p><em>Click <a target="_blank" href="https://docs.google.com/document/d/e/2PACX-1vQ59KBLaNe3jrgolLLHSFgYDBlF3qQH01B2AWKgle-5J_KpaoykEnczfyg-IA9cXno464yAWcVYQPLf/pub"><strong>here</strong></a> to view resume!</em></p>
 
 <script>
 
